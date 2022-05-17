@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/information"
+            android:title="我擁有兩種模式" />
+        <item
+            android:id="@+id/information1"
+            android:title="1.一般模式: 設定週期內需要完成的天數" />
+        <item
+            android:id="@+id/information2"
+            android:title="2.數字模式: 設定每日須完成的數量" />
+        <item
+            android:id="@+id/information3"
+            android:title="貼心提醒: 數字模式也包含一般模式的所有功能!" />
+    </group>
+
+
+</menu>

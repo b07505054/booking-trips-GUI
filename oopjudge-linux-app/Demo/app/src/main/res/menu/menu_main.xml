@@ -1,0 +1,16 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ntuesoeoop.progressproject.MainActivity">
+    <item
+        android:id="@+id/about_me"
+        android:orderInCategory="105"
+        android:title="這是什麼"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="108"
+        android:title="需要加油?!"
+        app:showAsAction="never" />
+</menu>

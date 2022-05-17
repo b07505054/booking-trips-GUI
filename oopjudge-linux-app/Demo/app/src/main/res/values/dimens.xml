@@ -1,0 +1,19 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="card_view_content_padding">5dp</dimen>
+    <dimen name="card_view_margin">5dp</dimen>
+    <dimen name="card_view_radius">5dp</dimen>
+    <dimen name="card_checkbox_scale">1.25</dimen>
+    <dimen name="recycler_view_progress_view_margin">5dp</dimen>
+    <dimen name="text_input_title_width">200dp</dimen>
+    <dimen name="text_input_description_width">250dp</dimen>
+    <dimen name="number_input_width">30dp</dimen>
+    <item name="card_view_streak_icon_scale" type="dimen" format="float">0.75</item>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="button_diameter">50dp</dimen>
+    <dimen name="slash_text_size">24sp</dimen>
+</resources>
