@@ -1,6 +1,6 @@
 # sephamore-object-orientation-final-project  
-Put all files of java in a project .   
-Run group.java and you can see the login panel .   
+1. Put all files of java in a project .   
+2. Run group.java and you can see the login panel .   
 (finished by java GUI)
 ## main flow chart
 ![image](https://user-images.githubusercontent.com/68935450/168778166-4469e71e-25aa-459b-bab7-df5efdc17490.png)  
